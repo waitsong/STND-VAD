@@ -1,1 +1,1 @@
-# -STND-VAD
+# STND-VAD
