@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-
-# Local data and generated experiment artifacts
-features/
-result/
-ckpt/
-list/*.list
-list/gt-*.npy

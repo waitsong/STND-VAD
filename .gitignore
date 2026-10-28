@@ -1,3 +1,13 @@
 /download_clip_onedrive.log
 /download_ucf_onedrive.log
 /short_long_mlp_10crop_core_20260617
+
+__pycache__/
+*.py[cod]
+
+# Local data and generated experiment artifacts
+features/
+result/
+ckpt/
+list/*.list
+list/gt-*.npy
